@@ -1,5 +1,5 @@
 # Welcome to the ZyCan Stuff Proejct!
-### Co-Accopmanied and Helpy by Sasha
+### Co-Accopmanied and Helped by Sasha
 
 Welcome to this lovely Project!
 this will be used for all of my hobbies like Photography, Video Editing, Photo Editing and UI Design
